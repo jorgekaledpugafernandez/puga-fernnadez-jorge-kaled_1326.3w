@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/f367fe08-1bae-4da9-acec-9e2f0dc9407d)
+
 nombre = "j orge"  # Cambiar según el caso de prueba
 apellido = "puga"  # Cambiar según el caso de prueba
 
@@ -12,6 +15,4 @@ else:
 
 
 
-
-![image](https://github.com/user-attachments/assets/f367fe08-1bae-4da9-acec-9e2f0dc9407d)
 
